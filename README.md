@@ -63,7 +63,7 @@ The **Electricity Billing System** simplifies electricity billing operations by 
 ---
 
 ## 🏗️ System Architecture
-
+```text
   +---------------------------+
   |     User Interface        |
   |     (Tkinter GUI)         |
@@ -85,7 +85,7 @@ The **Electricity Billing System** simplifies electricity billing operations by 
   |   Report Generation       |
   |     (ReportLab)           |
   +---------------------------+
-
+```
 ---
 ## ⚙️ Installation & Setup
 ---
