@@ -13,7 +13,6 @@ A professional desktop-based application developed to efficiently manage electri
 - [⚙️ Installation & Setup](#-installation--setup)
 - [🗄️ Database Schema](#-database-schema)
 - [📸 Screenshots](#-screenshots)
-- [🌐 Live Demo](#-live-demo)
 - [🤝 Contributing](#-contributing)
 - [📜 License](#-license)
 - [👨‍💻 Author](#-author)
@@ -166,11 +165,6 @@ Customer Table
   - 🔹 Dashboard Interface
   - 🔹 Billing Interface
   - 🔹 PDF Invoice Output
-
----
-
-### 🌐 Live Demo
-
 
 ---
 
